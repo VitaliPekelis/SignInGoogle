@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189151765338",
+    "project_id": "flash-moonlight-138823"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189151765338:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189151765338-tln4it2cmufar5fb40bii0cel0kvn6a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "B5BADBA3E3A0EDAB0FAD3EB3A111F84C3199C31F"
+          }
+        },
+        {
+          "client_id": "189151765338-sn1mf2lqe6qekbn39lhbf854f4e9ftht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAr60CfeZZ97YISal4_qnIW-7MYMQmLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
